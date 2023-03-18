@@ -1,7 +1,6 @@
-### Olá, eu sou o Felipe
+### Olá, eu sou o Felipe, estudante de programação e amante da tecnologia
 
 - 📚 Estudando back-end.
-- 📫 Entre em contato pelo e-mail: felipe.lima2297@gmail.com
 
 
 
