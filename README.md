@@ -8,7 +8,7 @@
 <div> 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Fel1peLima&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Fel1peLima&show_icons=true&theme=synthwave"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -27,7 +27,7 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fel1peLim
   srcset="https://github-readme-stats.vercel.app/api?username=Fel1peLima&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=Fel1peLima&show_icons=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fel1peLima&show_icons=true" />
 </picture>
 </div>
 
