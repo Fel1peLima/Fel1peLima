@@ -39,6 +39,6 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fel1peLim
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Felie-Node" height="40" width="50" ]
+    <img align="center" alt="Felipe-Node" height="40" width="50" ]
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
