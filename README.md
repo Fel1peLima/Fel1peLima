@@ -8,7 +8,7 @@
 <div> 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Fel1peLima&show_icons=true&theme=synthwave"
+  srcset="https://github-readme-stats.vercel.app/api?username=Fel1peLima&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
