@@ -26,7 +26,7 @@
 <source 
 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fel1peLima&layout=compact&theme=dark"
   
-/>
+
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Fel1peLima&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
