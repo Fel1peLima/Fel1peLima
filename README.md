@@ -24,7 +24,7 @@
 <div>
 <picture>
 <source 
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fel1peLima&layout=compact&theme=dark"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fel1peLima&layout=compact&theme=dark" />
   
 
 <source
