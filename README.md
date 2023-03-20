@@ -40,4 +40,6 @@ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fel1peLim
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
-![snake gif](https://github.com/Fel1peLima/Fel1peLima/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![snake gif](https://github.com/Fel1peLima/Fel1peLima/blob/output/github-contribution-grid-snake.svg)
+  
